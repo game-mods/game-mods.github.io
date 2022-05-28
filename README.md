@@ -1,3 +1,3 @@
-# game-mods.github.io
+# gamemods
 
 ### Estamos em manutenção em nosso site!
